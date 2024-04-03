@@ -1,0 +1,4 @@
+1)local version control system
+2)centralized version control system
+3)distributed version control system
+
